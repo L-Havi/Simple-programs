@@ -55,8 +55,6 @@ function getAuthorComponent($author){
 <head>
     <meta charset="utf-8">
     <title>Welcome to PHPSandbox</title>
-    <link rel="stylesheet" ref="tyyli.css" type='text/css'>
-    </style>
 </head>
 <body>
 <h3>Kirjat</h3>
