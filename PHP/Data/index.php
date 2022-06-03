@@ -54,7 +54,7 @@ function getAuthorComponent($author){
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Welcome to PHPSandbox</title>
+    <title>Kirjalista</title>
 </head>
 <body>
 <h3>Kirjat</h3>
